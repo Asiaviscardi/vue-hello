@@ -3,3 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+h1{
+    text-align: center;
+}
+
+img{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+    
+}
